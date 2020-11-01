@@ -49,17 +49,15 @@
 ### 서비스 영상
 
 1. 좋아욧 메인 페이지
+![좋아욧_개요](doc/stream/메인페이지.gif)
 
-<video src="doc/stream/메인페이지.mp4"></video>
 
 2. 좋아욧 옷 등록하기
-
-<video src="doc/stream/옷등록.mp4"></video>
-
+![좋아욧_개요](doc/stream/옷등록.gif)
 
 3. 좋아욧 등록된 옷 보기
+![좋아욧_개요](doc/stream/등록된옷보기.gif)
 
-<video src="doc/stream/등록된옷보기.mp4"></video>
 
 
 ## 사용 설명서 :open_hands:
